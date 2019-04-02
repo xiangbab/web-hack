@@ -35,18 +35,18 @@ https://www.css88.com/doc/chrome-devtools/
 
 ### 直接查看
 
-通过直接查看。即可获取到flag.     
+通过直接查看。即可获取到flag.
 ![flag](img/1.2/5.png)<br>
 
 ### 修改js
 
 有些试题可能通过js来限制用户的某些输入，比如限制输入的长度。比如下面这道题。<br>
-![xxxser](img/1.2/4.png)   
+![xxxser](img/1.2/4.png)
 根据提示进行计算，却发现只可以输入一位。摁F12。
-![限制](img/1.2/6.png)     
-发现其限制最大输入长度为一位。点击进行修改。  
-![限制１](img/1.2/7.png)     
-修改为1０，然后重新输入计算结果。验证成功。        
+![限制](img/1.2/6.png)
+发现其限制最大输入长度为一位。点击进行修改。
+![限制１](img/1.2/7.png)
+修改为1０，然后重新输入计算结果。验证成功。
 ![限制２](img/1.2/8.png)<br>
 ![限制３](img/1.2/9.png)
 
@@ -57,14 +57,14 @@ https://www.css88.com/doc/chrome-devtools/
 
 有写网站仅仅使用js做校验。比如文件上传时限制文件类型。此时我们可以直接禁用js来绕过。<br>
 比如靶场的第一关<br>
-右键查看源码，发现它是通过js来做上传文件的校验。    
-![上传](img/1.2/10.png)<br>    
+右键查看源码，发现它是通过js来做上传文件的校验。
+![上传](img/1.2/10.png)<br>
 上传一个木马文件,发现禁止上传。仅允许上传图片文件。　　　　
-![木马](img/1.2/11.png)<br>                     
+![木马](img/1.2/11.png)<br>
 浏览器禁止js运行。谷歌浏览器，点击右上角的三个点点。然后选择设置。<br>　　
 ![设置](img/1.2/12.png) <br>
 滑到底，然后选择高级。<br>
-![高级](img/1.2/13.png) <br>          
+![高级](img/1.2/13.png) <br>
 下滑，点击内容控制。<br>
 ![内容控制](img/1.2/14.png)<br>
 点击javascript.<br>
@@ -80,11 +80,11 @@ https://www.css88.com/doc/chrome-devtools/
 
 ## 1.2.３课后习题
 
-1.[html查看源码](http://39.98.88.18/challenges#HTML%E7%AD%BE%E5%88%B0%E9%A2%98) <br>
-2.[查看css文件](http://39.98.88.18/challenges#html2)  <br>
-3.[修改查看js](http://39.98.88.18/challenges#jsjsjs) <br>
-4.[禁用js](http://39.98.88.18/challenges#%E7%A6%81%E6%AD%A2js)<br>
-  禁用js靶场地址：http://39.98.88.18:8080/upload/Pass-01/index.php
+1.[html查看源码](http://xx.xx.xx.xx/challenges#HTML%E7%AD%BE%E5%88%B0%E9%A2%98) <br>
+2.[查看css文件](http://xx.xx.xx.xx/challenges#html2)  <br>
+3.[修改查看js](http://xx.xx.xx.xx/challenges#jsjsjs) <br>
+4.[禁用js](http://xx.xx.xx.xx/challenges#%E7%A6%81%E6%AD%A2js)<br>
+  禁用js靶场地址：http://xx.xx.xx.xx:8080/upload/Pass-01/index.php
 
 ## 小结
 
@@ -97,9 +97,3 @@ CTF（web和内网渗透系列教程）的清单请在“https://github.com/xuan
 及时获取更多消息，请关注微信订阅号
 
 ![](img/1.2/0.jpg)
-
-
-
-
-
-
