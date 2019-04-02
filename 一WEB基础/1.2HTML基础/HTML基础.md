@@ -80,11 +80,11 @@ https://www.css88.com/doc/chrome-devtools/
 
 ## 1.2.３课后习题
 
-1.[html查看源码](http://xx.xx.xx.xx/challenges#HTML%E7%AD%BE%E5%88%B0%E9%A2%98) <br>
-2.[查看css文件](http://xx.xx.xx.xx/challenges#html2)  <br>
-3.[修改查看js](http://xx.xx.xx.xx/challenges#jsjsjs) <br>
-4.[禁用js](http://xx.xx.xx.xx/challenges#%E7%A6%81%E6%AD%A2js)<br>
-  禁用js靶场地址：http://xx.xx.xx.xx:8080/upload/Pass-01/index.php
+1.[html查看源码](http://39.98.88.18/challenges#HTML%E7%AD%BE%E5%88%B0%E9%A2%98) <br>
+2.[查看css文件](http://39.98.88.18/challenges#html2)  <br>
+3.[修改查看js](http://39.98.88.18/challenges#jsjsjs) <br>
+4.[禁用js](http://39.98.88.18/challenges#%E7%A6%81%E6%AD%A2js)<br>
+
 
 ## 小结
 
